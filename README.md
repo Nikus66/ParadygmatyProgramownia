@@ -1,0 +1,2 @@
+# ParadygmatyProgramownia
+Laby z JiPP
